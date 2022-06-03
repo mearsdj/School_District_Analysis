@@ -36,11 +36,11 @@ Reading scores went up slightly, while the math score, as well as all pass rates
 
 Original school results
 
-![Old school summary](Images/Original_Thomas_per_school_Summary.png)
+![Old school summary](Images/Original_Thomas_per_school_summary.png)
 
 Adjusted school results: 
 
-![New school summary](Images/New_Thomas_per_school_Summary.png)
+![New school summary](Images/New_Thomas_per_school_summary.png)
 
 Note: Formatting the school output was achived using the following code:
 ```
